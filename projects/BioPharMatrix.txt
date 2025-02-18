@@ -1,0 +1,84 @@
+# BioPharMatrix
+
+- biopharmatrix@gmail.com or frankpleu@gmail.com
+- frankleu.com; linkedin.com/in/fleu
+  biopharmatrix.com (under construction) x.com/biopharmatrix
+
+## Project Summary
+
+The current landscape of scientific and medical research is often hampered by centralized control, lack of transparency, and barriers to access that often result in the spread of disinformation.  This is self-evident in the rapid rise of the chronic disease epidemic, while our medical expenditure has exponentially grown. BioPharMatrix intends to use gno.land, a blockchain platform built on the Go programming language, a proven and intuitive language, to establish an open and decentralized ecosystem where scientific knowledge and medical data can be shared, verified, and built upon by anyone, anywhere. By decentralizing scientific data and medical information using gno.land with its Proof of Contribution (PoC), we aim to advance scientific and medical data open sharing significantly. Our approach will yield innovative blockchain applications that would best democratize access and sharing of scientific and medical knowledge that is personalized, while fostering a trustless collaborative research ecosystem, ensuring that contributors are fairly rewarded along with all other stakeholders and participants.
+
+### Goals and Deliverables
+
+Goals of your project and its deliverables
+
+Our overall goal is to integrate gno.land with its PoC to power immutable, verifiable, and collaborative scientific and medical ecosystems to share data and information.  To achieve this, two sister applications will be created and deployed: Decentralized Science (DeSci)and Decentralized Medicine (DeMed). Our measure of success would be to reduce and eliminate most, if not all, of the science and medical disinformation. But first, we would like to focus on completing the DeSci chain first, then the DeMed chain second.  Our DeSci applications will disrupt how scientific data and information are disseminated and utilized with an emphasis on personalized data. Our DeSci will provide a transparent and fastidious exchange of scientific and medical information coupled with the rigor of the peer-reviewed process. We would directly incentivize users for their essential input and participation within our PoC ecosystem, whether from coding, supplying data, or offering other valuable forms of intellectual assets.  In sum, we believe in providing open, transparent, and honest scientific and medical data based on gno.land PoC will reduce disinformation, and dramatically reduce the global chronic disease epidemic and thus significantly improve global healthcare outcomes.   
+
+
+### Impact on gno.land’s developer ecosystem
+
+The impact of your project on the developer ecosystem.  
+
+We plan to take an office in the University of Pennsylvania's Innovation Center, also known as the Pennovation Center.  At the Pennovation Center, we will have immediate access to talents at the University of Pennsylvania and around the Philadelphia region.  I would leverage my working experience (Novapeutics and BioPharMatrix) with the University of Pennsylvania and the Pennovation Center to bring a technology team together ASAP to use gno.land to create our DeSci and DeMed apps. I will be able to work with the director of Pennovation Center Innovation Venture to reach U. Penn's talent pool almost immediately, and we will also work with developers in the neighboring institutions and globally online.  For example, if a budget allows us to host a hackathon at the Pennovation Center, then we can invite developers from all over the country to participate. Meanwhile, our influence and contributions to the gno.land developers' ecosystem would not be confined to the region as we plan to be as open as possible and hope to influence and assist other useful gno.land apps to be developed.  I believe that a rising tide lifts all boats, and it will be part of our mission to be a champion of gno.land.  
+
+### Timeline and milestones
+
+Timelines and milestones are used to keep track of progress.
+
+Phase 1 Planning and Research (12 weeks):
+	- Establish an office presence at the Pennovation Center and recruit an initial team of 3, including me.
+	- Define use cases and target audience.
+        - Blockchain types: public, private, or hybrid.
+        - Formulating a legal and regulatory compliance strategy.
+
+Phase 2 Architecture and Design (24 weeks): 
+	- Design system architecture, such as protocol, nodes, smart contracts, etc.  Develop an architecture to use gno.land and its Proof of Contribution 	  algorithm to manage data submission, such that contributors can submit data securely, with an embedded decentralized, transparent, and fastidious peer review process  
+	- Develop a technical architecture plan to execute and support the app's function. For example, implement a system for identity management and reputation, ensure contributors can be recognized while maintaining privacy for tracking and recording contributions for reward distribution.
+	- UI/UX design for user-facing applications.
+	- Plan security measures and scalability solutions. Such as identifying and setting up a decentralized storage solution, and utilizing decentralized storage solutions like the Interplanetary File Systems (IPFS) for data storage, linked via gno.land for immutability.
+
+Phase 3 Continuing Development (24 weeks):  
+	- Develop smart contracts and core blockchain functionalities to reward contributors and develop a component for funding research projects.
+	- Implement cryptographic protocols and PoC consensus mechanisms.
+	- Build front-end and back-end components.
+	- Set up nodes and validators infrastructure. Such as determining how GNO and BPM tokens will be introduced and used. 
+	- Develop API integrations that are consistent with rewarding contributions based on the PoC, rewards for code, scientific data sharing, peer review, and other contributions.
+
+**As the project starts taking shape going into phase 4, there will be a need to raise additional capital to support and grow the official launch of the tokenized project. Engage in academic, and industrial partnerships with academics and industrial research labs to use BioPharMatrix.  We will leverage any tangible interests and engagements to raise capital from the investment community and explore the feasibility of applying for various governmental grants.**
+
+Phase 4 Testing and Security Audits (24 weeks): 
+	- Conduct unit and integration testing: Such as establishing a working model of a decentralized autonomous organization (DAO) to govern decision-making, where token holders vote on research priorities, funding allocation, and platform upgrades.
+	- Run testnet deployment for debugging.
+	- Perform internal and third-party security audits.
+	- Stress test scalability and performance.
+
+Phase 5 Beta Testing and Community Engagement (12 weeks): 
+	- Launch a testnet for community testing, such as exploring and establishing integration with existing scientific and medical databases, and pilot projects.
+	- Build developer and user community, such as creating APIs and protocols to integrate with traditional academic and medical databases, ensuring a smooth transition to a decentralized system with adequate information.
+	- Gather user feedback and fix bugs and finalize documentation and guides.
+
+Phase 6 Mainnet Launch & Deployment (10 weeks): 
+	- Deploy the mainnet.
+	- Migrate testnet data if applicable.
+	- Announce the launch and marketing push.
+	- Establish governance models if necessary.
+	- Full-scale launch with comprehensive features, including decentralized review systems and advanced data analytics.
+	- Expansion and refinement based on community feedback, aiming for global adoption.
+
+## Contributions or related work for gno.land (if applicable)
+
+Your previous contributions or work related to gno.land.
+
+- Not Applicable
+
+## Why are you and your team well-suited for this project?
+
+Tell us a bit more about yourself.
+
+- I like to think of myself as a problem solver that I can solve difficult problems.  I believe my skill set can be transferred to build the best DeSci and DeMed chains based on gno.land with the help of your team because for years I have experienced and identified numerous information management problems in science.  For many years, I have published and given talks, and moderated conferences designed to bring blockchain application to medical sciences. Until now, I have not seen a blockchain architecture I could get myself behind.  I have close to 30 years of experience in science and biomedical research. Over the years, I have realized the major bottleneck in science and healthcare has to do with the lack of transparency and integrity in how information is exchanged. A brief history of my scientific background that is also included in my curriculum vitae on frankleu.com: I started to conduct scientific research during the summer before my undergraduate studies in biology and biophysics at Binghamton University, and then I went on to obtain a PhD in Pharmacology from Cornell University and Memorial Sloan-Kettering Cancer Institute in NYC.  I conducted most of my graduate and post-graduate research at Rockefeller University (in the area of biochemistry, molecular biology, and with a specific focus on elucidating the molecular mechanisms of DNA replication and its enzymatic machinery.  After my time at Rockefeller University, I joined a start-up institute headed by then the president of Rockefeller University, where I studied and published in peer-reviewed journals on novel molecular and cellular signaling pathways, and I also worked on designing new drugs to treat neuroendocrine cancer.  After that, I co-founded a startup company with the University of Pennsylvania to develop a new class of drugs aimed to cure diabetes and potentially treat metabolic diseases.  Over the past 25 years, I've learned that our current data and information-sharing incentive system in sciences and funding mechanisms is just terrible, it lacks transparency and integrity, all lead to a heavily corrupted system.  A useful and easy-to-access blockchain-driven portal for funding and a merit-based system without bias, free from any individual and institutional influence and control will be able to power the reduction of chronic diseases and accelerate our scientific understanding.  I also believe data and information generated from our gno.land DeSci and DeMed chains will also be crucial in training the most effective AI in science and medicine.
+
+## Referrals or examples of past work
+
+Other relevant work is unrelated to gno.land.
+
+- Not Applicable
